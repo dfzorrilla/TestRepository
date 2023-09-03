@@ -1,2 +1,5 @@
-# 1stRepository TestRepo
-This is a test repository
+# TestRepo
+
+## Editing the file
+
+This is a test repository markdown file.
